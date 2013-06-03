@@ -1,8 +1,10 @@
+Bonjour
+
 Voici une plus grosse série de lignes
 Il est important de passer souvent à la ligne car les différences
 des versions se calculent par ligne. Si vous faites une modification
 dans une très grande ligne, il sera difficile de voir clairement
 ce qui a été changé. On retrouve l'importance des fichiers plats
-Il est + dfficile de monterre les différences entre fichiers
+Il est + dfficile de montrer les différences entre fichiers
 binaires ou stockés dans un format non humain.
 pop pop pidou
